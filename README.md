@@ -42,3 +42,6 @@ Obtain your IFTTT webhook key from your IFTTT mypage, then input it on <code>{yo
 3. Check the checkbox for <b>Trigger script at __ of render job</b>
 4. Choose <code>END</code> of render job
 5. Choose the script you want to run
+
+<img width="439" alt="Screen Shot 2022-01-18 at 19 20 43" src="https://user-images.githubusercontent.com/547701/149918614-2d100a71-89e7-41e6-b819-6900889d0dac.png">
+
