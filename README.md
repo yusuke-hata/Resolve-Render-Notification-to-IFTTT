@@ -5,11 +5,9 @@ Notification to IFTTT Webhooks, and is triggered after DaVinci Resolve rendering
 
 
 
-This trigger is tested on 
+This trigger is tested on the following environment.
 
-_macOS 12.0.1 (21A559) on Intel Mac_
-
-_DaVinci Resolve Studio 17.4.2 build 9_
+https://github.com/yusuke-hata/Resolve-Render-Notification-to-IFTTT/blob/main/Tested_Environment
 
 _Python 3.6.8_
 
