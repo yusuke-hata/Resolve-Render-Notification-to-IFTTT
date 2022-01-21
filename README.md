@@ -21,10 +21,12 @@ Obtain your IFTTT webhook key from your IFTTT mypage, then input it on <code>{yo
 
 1. Open IFTTT
 2. Open <b>My Services/Webhooks</b>, then open <b>"Documentation"</b>
-3. Copy "your key"
+3. Copy "your key" and paste it onto the script.
 4. Also ensure to type <code>"Resolve_Render_Job"</code> event name on <code>{event}</code> section
 
 <img width="1552" alt="Screen Shot 2022-01-18 at 18 51 36" src="https://user-images.githubusercontent.com/547701/149913809-01c05588-9c5f-4c3d-b109-791f6eddc046.png">
+
+<img width="1023" alt="Screen Shot 2022-01-21 at 13 51 43" src="https://user-images.githubusercontent.com/547701/150467963-2d2ad7dd-1d52-43cb-9030-306703402b00.png">
 
 <h2>Setup Webhooks trigger on IFTTT</h2>
 
