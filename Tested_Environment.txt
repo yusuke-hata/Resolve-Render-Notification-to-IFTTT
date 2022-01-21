@@ -6,8 +6,8 @@ DaVinci Resolve Studio 17.4.2 build 9
 
 Mac (Apple Silicon)
 
-macOS 12.0.1 (21A559)
+macOS 12.0.1 (21A559) / 12.1 (21C52)
 MacBook Pro (13-inch, M1, 2020)
 DaVinci Resolve Studio 17.4.3 build 10
-Run on "Open using Rosetta" mode
+Run Resolve on "Open using Rosetta" mode
 
