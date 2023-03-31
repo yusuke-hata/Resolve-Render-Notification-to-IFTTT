@@ -11,7 +11,7 @@ https://github.com/yusuke-hata/Resolve-Render-Notification-to-IFTTT/blob/main/Te
 
 _Python 3.6.8_
 
-Install python 3.6.8 first, then install "requests" in commend line tools
+Install python 3.6.8 first, then install "requests" in command line tools
 
 <code>pip3 install requests</code>
 
